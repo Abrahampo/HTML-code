@@ -95,10 +95,10 @@ andy Shipping billing address
 <p> <a href="#">product 2</a> <span class="price">$300</span></p>
 <p> <a href="#">product 3</a> <span class="price">$400</span></p>
 <p> <a href="#">product 4</a> <span class="price">$500</span></p>
-<button>submit</button>
+
 <hr>
 <p>Total <span class="price" style="color: black"> <b>$1200</b></span> </p>
-<button>submit</button>
+
     </div>
 </div>
 </div>
